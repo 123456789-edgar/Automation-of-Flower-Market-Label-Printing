@@ -26,5 +26,7 @@ This information include details like:
 This same information is used manually to key onto Bartender to generate a label with visuals as attached.
 <img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/fc7dc04c-bb58-4ce3-a58a-4b26570e3c3d" />
 
-Thus to automate this whole process a redesign of the same is applicable by integrating SAP Crystal Report with SQL backend platform.
+Thus to automate this whole process a redesign of the same is applicable by integrating SAP Crystal Report with SQL backend platform to achieve a standard layout like this:
+<img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/314e3639-6408-43f0-bfd4-6756ae634c99" />
+
 
