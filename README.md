@@ -60,9 +60,11 @@ This setup allows the label to be **generated and printed automatically** from S
 3. **Report Design:** SAP Crystal Report replaces manual BarTender templates.  
 4. **Output:** Label and barcode automatically printed from SAP with consistent formatting.
 
-> _Example of the Automated SAP Label Output:_  
-> *<img width="1365" height="643" alt="image" src="https://github.com/user-attachments/assets/bcec85b1-9c71-431d-b36c-7936ad1c5039" />
-*
+> _General Design on SAP Crystal Editor:_  
+> *<img width="1365" height="643" alt="image" src="https://github.com/user-attachments/assets/bcec85b1-9c71-431d-b36c-7936ad1c5039" />*
+
+> _Which in turn looks as below when uploaded to SAP:_
+> *<img width="1365" height="676" alt="image" src="https://github.com/user-attachments/assets/c1cdf8d8-8736-41fd-a971-a799fdff80ec" />*
 
 ---
 
