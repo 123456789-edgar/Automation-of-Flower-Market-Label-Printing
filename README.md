@@ -61,7 +61,8 @@ This setup allows the label to be **generated and printed automatically** from S
 4. **Output:** Label and barcode automatically printed from SAP with consistent formatting.
 
 > _Example of the Automated SAP Label Output:_  
-> *(Image placeholder – replace with SAP Crystal Report label sample)*
+> *<img width="1365" height="643" alt="image" src="https://github.com/user-attachments/assets/bcec85b1-9c71-431d-b36c-7936ad1c5039" />
+*
 
 ---
 
