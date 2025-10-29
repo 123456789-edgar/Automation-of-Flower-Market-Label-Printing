@@ -44,8 +44,7 @@ This screen captures **client-specific information** required to generate the fi
 | Drop-off Point | Final destination or delivery site |
 
 Currently, these same details are **manually entered** into BarTender to generate labels — as illustrated in the following (manual) sample label:
-
-> _Sample BarTender Label (Manual Design)_  
+ 
 > *<img width="1365" height="686" alt="image" src="https://github.com/user-attachments/assets/ef8632ed-b1f9-45ac-bb04-a2d2a1558a09" />*
 
 ---
